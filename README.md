@@ -1,7 +1,7 @@
 #Jackson
 en:
 
-Jackson serialize and deserialize, custome json property name, enum processing.
+Jackson serialize and deserialize, custom json property name, enum processing.
 
 
 cn:
